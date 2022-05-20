@@ -1,15 +1,15 @@
 //package player;
 
 /*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
+ * 
+ * Contribution for a file named Test_Play_List.java by Nat30b
+ * 
  */
 import java.util.ArrayList;
 import java.util.LinkedList;
 /**
  *
- * @author LENOVO
+ * Contribution for a file named Test_Play_List.java by Nat30b
  */
 public class Test_Play_List {
 	
